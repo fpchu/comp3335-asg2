@@ -1,0 +1,3 @@
+-- SHOW VARIABLES where Variable_name = 'block_encryption_mode'; 
+-- SET block_encryption_mode = 'aes-256-cbc';
+-- This file do nothing
